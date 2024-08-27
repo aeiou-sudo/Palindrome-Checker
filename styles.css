@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
+}
+html {
+    color-scheme: dark light;
+}
+body {
+    min-height: 100svh;
+}
+img {
+    display: block;
+    max-width: 100%;
+    object-fit: cover;
+}
